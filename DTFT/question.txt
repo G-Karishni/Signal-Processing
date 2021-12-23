@@ -1,0 +1,4 @@
+A system has impulse response h[n] given by, 
+h1[n]=0.5*imp[n] + 0.5*imp[n-1]
+h2[n]=0.5*imp[n] - 0.5*imp[n-1]
+Find the magnitude and phase response of the each of the fn.
