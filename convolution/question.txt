@@ -1,0 +1,6 @@
+Given signal,
+x[n] = 0.5del[n] + 0.5del[n-1] + 0.5del[n-2]
+h[n] = [3,2,1]
+Find convolution x[n] and h[n]
+(i) using reflection and time shift method
+(ii) using convolution sum formula
